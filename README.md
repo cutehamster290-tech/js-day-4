@@ -1,1 +1,1 @@
-# js-day-4
+wassup everyone, so today i tried make a data base using mongo db, but it was too hard, then i fixed a issue where the server was not sending the data received from the client... this day i did little things, because i get bored at learning all those things..
